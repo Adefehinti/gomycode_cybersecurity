@@ -1,4 +1,4 @@
-Project: Digital Invisible Ink (Steganography Lab)
+##Project: Digital Invisible Ink (Steganography Lab)
 ## Overview
 This project explores the art of Steganography—hiding sensitive data inside ordinary-looking files (like images or audio) so that no one even knows a secret message exists. Unlike encryption, which makes a message unreadable, steganography makes the message invisible to the naked eye.
 
